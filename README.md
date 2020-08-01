@@ -1,2 +1,2 @@
 # FreeRTOS
-This project shows the two LED blink program at the same time using FreeRTOS library of Arduino.
+This project shows the blink of two LED at the same time using FreeRTOS library of Arduino.
